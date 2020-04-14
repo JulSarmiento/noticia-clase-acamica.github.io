@@ -1,0 +1,23 @@
+body {
+    background-color: beige;
+}
+
+.wraper {
+    margin: 0 auto;
+    max-width: 480px;
+}
+
+header img {
+    display: block;
+}
+
+p {
+    text-align: justify;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.text-style {
+    font-family: 'Gentium Basic', serif;
+    text-align: left;
+}
+
